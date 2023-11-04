@@ -1,0 +1,563 @@
+<p>&nbsp;</p>
+<!-- Intro Program Studi Section Start -->
+<div class="rs-about style7 pt-50 pb-50 md-pt-30 md-pb-30">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 col-md-12 md-mb-30">
+				<div class="img-part js-tilt"><img src="https://asset.uinjkt.ac.id/uploads/assets/images/gedung-fah-uinjkt.jpg" alt="images" /></div>
+			</div>
+			<div class="col-lg-6 pl-50 md-pl-15 col-md-12">
+				<div class="sec-title2">
+					<div class="btn-part"><a class="readon-arrow">Program Studi</a></div>
+					<h3 class="mb-20">Magister Sejarah Kebudayaan Islam</h3>
+					<div id="accordionExample" class="accordion">
+						<div class="accordion-item">
+							<h2 id="heading1" class="accordion-header"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1"> Visi </button></h2>
+							<div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordionExample">
+								<div class="accordion-body">Program Studi Magister Sejarah dan Kebudayaan Islam (PS-MSKI) menjadi salah satu program magister terkemuka di Asia pada tahun 2024 melalui integrasi dan kontekstualisasi ilmu sejarah dan kebudayaan Islam dalam perspektif keislaman dan
+                                    keindonesiaan.</div>
+							</div>
+						</div>
+						<div class="accordion-item">
+							<h2 id="heading2" class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2"> Misi </button></h2>
+							<div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordionExample">
+								<div class="accordion-body">
+									<ol>
+										<li><span class="fontstyle1">Melaksanakan pendidikan di bidang sejarah dan kebudayaan Islam dengan memperkuat basis riset dan mengintegrasikan teori dan metodologi keilmuan dalam perspektif keislaman dan keindonesiaan.</span></li>
+										<li><span class="fontstyle1">Mengembangkan kajian di bidang sejarah dan kebudayaan Islam secara kritis, kontekstual, dan inovatif sesuai dengan dinamukan yang berkembang di masyaralat.</span></li>
+										<li><span class="fontstyle1">Mengambangkan budaya akademik dan keilmuan dengan basis Islam Keindonesiaan dan Islam Universal (Rahmatan Lil Alamin) yang moderat dan humanis.</span></li>
+                                        <li><span class="fontstyle1">Menyelenggarakan kegiatan pengabdian kepada masyarakat, khususnya di bidang sejarah dan kebudayaan Islam biak untuk kebutuhan akademik, profesi, maupun pengembangan terkait keilmuan di masyarakat.</span></li>
+									</ol>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-item">
+							<h2 id="heading3" class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3"> Video Profil </button></h2>
+							<div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordionExample">
+								<div class="accordion-body">
+									<div class="intro-video orange-color2">
+										<div style="overflow: hidden; position: relative;">
+											<iframe src="https://www.youtube.com/embed/VooCpKtRTCM?autoplay=0&amp;fs=0&amp;iv_load_policy=3&amp;showinfo=0&amp;rel=0&amp;cc_load_policy=0&amp;start=0&amp;end=0" width="100%" height="auto" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="width: 100%; height: 320px;"></iframe>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Intro Program Studi Section End -->
+<p>&nbsp;</p>
+<!-- Tab Profil Program Studi Section Start -->
+<section class="intro-section gray-bg pt-35 pb-30 md-pt-64 md-pb-70">
+	<div class="container">
+		<div class="row clearfix">
+			<div class="col-lg-12 md-mb-50">
+				<div class="intro-info-tabs">
+					<!-- List Menu Tab Start -->
+					<ul id="myTab" class="nav nav-tabs intro-tabs tabs-box" role="tablist">
+						<!-- Menu Tab Kurikulum -->
+						<li class="nav-item tab-btns" role="presentation"><a id="prod-curriculum-tab" class="nav-link tab-btn active" role="tab" href="#" data-bs-toggle="tab" data-bs-target="#prod-curriculum" aria-controls="prod-curriculum" aria-selected="true">Kurikulum</a></li>
+						<!-- Menu Tab Dosen & Staf -->
+						<li class="nav-item tab-btns" role="presentation"><a id="prod-lecture-tab" class="nav-link tab-btn" role="tab" href="#" data-bs-toggle="tab" data-bs-target="#prod-lecture" aria-controls="prod-lecture" aria-selected="false">Dosen &amp; Staf</a></li>
+						<!-- Menu Tab Prestasi -->
+						<li class="nav-item tab-btns" role="presentation"><a id="prod-achievement-tab" class="nav-link tab-btn" role="tab" href="#" data-bs-toggle="tab" data-bs-target="#prod-achievement" aria-controls="prod-achievement" aria-selected="false">Prestasi</a></li>
+						<!-- Menu Tab Fasilitas -->
+						<li class="nav-item tab-btns" role="presentation"><a id="prod-facility-tab" class="nav-link tab-btn" role="tab" href="#" data-bs-toggle="tab" data-bs-target="#prod-facility" aria-controls="prod-facility" aria-selected="false">Fasilitas</a></li>
+					</ul>
+					<!-- List Menu Tab End --> <!-- Konten Tab Start -->
+					<div id="myTabContent" class="tab-content tabs-content">
+						<!-- Isi Konten Tab Kurikulum Start -->
+						<div id="prod-curriculum" class="tab-pane tab fade show active" role="tabpanel" aria-labelledby="prod-curriculum-tab">
+							<div class="content white-bg pt-30">
+								<div class="course-overview">
+									<div class="inner-box">
+                                        <div class="inner-box">
+                                            <h5 class="text-center mt-5">Capaian Pembelajaran Lulusan</h5> 
+                                            <div class="accordion row gx-5" id="accordionExample">
+                                                <div class="col-md-6 my-3">
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingOne">
+                                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                            Kompetensi Umum
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                            <div class="accordion-body">
+                                                                <ol>
+                                                                    <li>Mampu berpikir secara logis, kritis, dan analitis</li>
+                                                                    <li>Beretika akademis</li>
+                                                                </ol>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 my-3">
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingTwo">
+                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                            Kompetensi Khusus
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                                            <div class="accordion-body">
+                                                                <ol>
+                                                                    <li>Mampu merekonstruksi dan mengkontekstualisasi sejarah dalam perspektif kekinian, keislaman, dan keindonesiaan yang diakui secara nasional maupun internasional</li>
+                                                                    <li>Mampu mengaplikasikan metodologi riset sejarah dalam menganalisa maupun memecahkan persoalan di masyarakat</li>
+                                                                    <li>Mampu mengidentifikasi persoalan kesejarahan</li>
+                                                                    <li>Mampu menampilkan gagasan dan pemikiran baik dalam bentuk lisan maupun tulisan di berbagai kesempatan nasional serta internasional</li>
+                                                                </ol>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 my-3">
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingThree">
+                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                            Sikap
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                            <div class="accordion-body">
+                                                                <ol>
+                                                                    <li>Menjunjung tinggi nilai-nilai keIslaman yang mencakup ketakwaan terhadap Tuhan YMR, penghargaan terhadap nilai-nilai kemanusiaan internalisasi nilai dan norma.</li>
+                                                                    <li>Menjunjung tinggi nilai-nilai keIndonesiaan dan kemasyarakatan meliputi penghargaan terhadap keanekaragaman, nasionalisme dan tanggung jawab bernegara, dan peningkatan kehidupan bermasyarakat, kerjasama, keperdulian terhadap sesame, berbangsa, dan bernegara berdasarkan pancasila.</li>
+                                                                    <li>Menjunjung tinggi nilai-nilai etika akademik yang meliputi kejujuran dan kebebasan akademik dan otonomi akademik.</li>
+                                                                </ol>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 my-3">
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingThree">
+                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                                            Pengetahuan
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                            <div class="accordion-body">
+                                                                <ol>
+                                                                    <li>Mampu mengembangkan teori dan terapan dalam ilmu sejarah dan kajian keislaman melalui riset yang inovatif dan teruji sesuai dengan bidang keahliannya</li>
+                                                                    <li>Mampu menjelaskan konsep dan teori dasar dalam Ilmu Sejarah</li>
+                                                                    <li>Mampu menjelaskan berbagai persoalan sejarah yang hinggap di komunitas Muslim</li>
+                                                                    <li>Mampu menerapkan sejarah sebagai perspektif dalam memecahkan persoalan</li>
+                                                                </ol>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="container">
+                                            <h3 class="mb-5 text-center">Matakuliah Persemester</h3>
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <h6 class="text-center">Semester 1</h6> 
+                                                    <div class="inner-box">
+                                                        <table class="table px-5 py-5">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th scope="col">No</th>
+                                                                    <th scope="col">Matakuliah</th>
+                                                                    <th scope="col">SKS</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th scope="row">1</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1200emJaRXjcZvCTD1vzHdWcpfDgeiARr/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true">Approaches To Islamic Studies</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1200emJaRXjcZvCTD1vzHdWcpfDgeiARr/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">2</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1zULTRjbrJ824DeVXv6kuXP1BKUqYGnS4/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Historical Studies</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1zULTRjbrJ824DeVXv6kuXP1BKUqYGnS4/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">3</th>
+                                                                    <td><a href="https://docs.google.com/document/d/17kuPtINzPSAIKEmKJU91lSMNe-aViunu/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Historiography of Indonesian Islam</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/17kuPtINzPSAIKEmKJU91lSMNe-aViunu/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">4</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1e4P-onvt7kpexGateNKRY4hRQa_0bCwJ/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Orientalism and Occidentalism</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1e4P-onvt7kpexGateNKRY4hRQa_0bCwJ/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="inner-box">
+                                                        <h6 class="text-center">Semester 2</h6> 
+                                                        <table class="table px-5 py-5">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th scope="col">No</th>
+                                                                    <th scope="col">Matakuliah</th>
+                                                                    <th scope="col">SKS</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th scope="row">1</th>
+                                                                    <td><a href="https://docs.google.com/document/d/164zE_Q4En5k06_kBv2wgeLD_lb7AsT98/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Historical Research Method</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/164zE_Q4En5k06_kBv2wgeLD_lb7AsT98/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">2</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1mvJknkgStF4fnZHlPmqPDcXsEpjClkvN/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Philology and Southeast Asian Studies</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1mvJknkgStF4fnZHlPmqPDcXsEpjClkvN/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">3</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1fWWSSrG8j4dTLZpWNcfNWjKGfpohX1y9/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Islam and Local Culture</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1fWWSSrG8j4dTLZpWNcfNWjKGfpohX1y9/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">4</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1p-bceBHQKC8J_8sa35YpiMv2MPZxjd19/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Islamic Philanthropy Studies</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1p-bceBHQKC8J_8sa35YpiMv2MPZxjd19/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="inner-box">
+                                                        <h6 class="text-center">semester 3</h6> 
+                                                        <table class="table px-5 py-5">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th scope="col">No</th>
+                                                                    <th scope="col">Matakuliah</th>
+                                                                    <th scope="col">SKS</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th scope="row">1</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1-oar6IKFSMqIuX_vlT-aHm8pierG4LR5/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Pilgrimage and Religious Travel</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1-oar6IKFSMqIuX_vlT-aHm8pierG4LR5/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">2</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1sMHd7OUf5RpCSEOKqwtvJfgCRAIXnHTx/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Islamic Intellectual History and Social Movement</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1sMHd7OUf5RpCSEOKqwtvJfgCRAIXnHTx/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">3</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1hVprFdMQ-SaumSTU8jVPASb8XeNYo132/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Maritime History</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1hVprFdMQ-SaumSTU8jVPASb8XeNYo132/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">4</th>
+                                                                    <td><a href="https://docs.google.com/document/d/10gZzIzYFFNYF0S-LMEaAdO4RXcwa8F-p/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Research Design in History</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/10gZzIzYFFNYF0S-LMEaAdO4RXcwa8F-p/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">5</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1hVprFdMQ-SaumSTU8jVPASb8XeNYo132/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Maritime History</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1hVprFdMQ-SaumSTU8jVPASb8XeNYo132/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">6</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1fjPtVhzN5cYawEcFeW_dIRfM70OK8hVu/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Islamic History and Social Issues</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1fjPtVhzN5cYawEcFeW_dIRfM70OK8hVu/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">7</th>
+                                                                    <td><a href="https://docs.google.com/document/d/14vRPDW0mQJWDnh3cE9UXj9czdhAtvw8P/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Classical Islamic History and Culture</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/14vRPDW0mQJWDnh3cE9UXj9czdhAtvw8P/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">3</a></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="inner-box">
+                                                        <h6 class="text-center">Semester 4</h6> 
+                                                        <table class="table px-5 py-5">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th scope="col">No</th>
+                                                                    <th scope="col">Matakuliah</th>
+                                                                    <th scope="col">SKS</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th scope="row">1</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1NZF_XvkB-RqUObJ1C0YpGHhIvakXVFTT/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Thesis Proposal Exam</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1NZF_XvkB-RqUObJ1C0YpGHhIvakXVFTT/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">2</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">2</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1Qda_TMSCo-bdc9-YrOkCScGu_-qzQC78/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Thesis Colloquium</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1Qda_TMSCo-bdc9-YrOkCScGu_-qzQC78/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">0</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">3</th>
+                                                                    <td><a href="#">Preliminary Thesis Exam</a></td>
+                                                                    <td><a href="#">2</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">4</th>
+                                                                    <td><a href="#">Academic Publication</a></td>
+                                                                    <td><a href="#">2</a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th scope="row">5</th>
+                                                                    <td><a href="https://docs.google.com/document/d/1C0F0n5213YYs2SaGKoTQefFT6wTCnNm-/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">Thesis</a></td>
+                                                                    <td><a href="https://docs.google.com/document/d/1C0F0n5213YYs2SaGKoTQefFT6wTCnNm-/edit?usp=drive_link&ouid=102811035192259525388&rtpof=true&sd=true">8</a></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Isi Konten Tab Kurikulum End --> <!-- Isi Konten Tab Dosen & Staf Start -->
+						<div id="prod-lecture" class="tab-pane fade" role="tabpanel" aria-labelledby="prod-lecture-tab">
+							<div class="content white-bg pt-50 pb-50">
+                                <div class="container">
+                                    <div class="inner-box">
+                                        <div class="row gx-5 gy-5 ">
+                                            <a href="https://docs.google.com/document/d/1kC6nhe_Y9pyC0-gXDoV2IjodFII9nYAP/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/dien-madjid.jpeg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Dr. M. Dien Madjid</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah dan Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1eBjKgYTxwuLSWna88Jxpdm14oVytAkR6/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/jajat-burhanuddin.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Dr. Jajat Burhanuddin, M. A</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1iU3gNXnrib0d4c6JANFRvhocIvhG3yfG/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/abdul-wahid-hasyim.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Dr. Abd. Wahid Hasyim, M. A </div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah Indonesia</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1Wps4W3Vv9oDWaQsQYFb58FEyqLiXL5PG/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/parlindungan-siregar.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Parlindungan Siregar, M. A</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1YBBFcIACgGvgyAlqeakBHmBGUKFI--Np/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/amelia-fauzia.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Dr. Amelia Fauzia, M.A</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah Islam Indonesia</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1qYg7nYITRlzRnH_x3nGtMB5WmmsjJkIR/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/sudarnoto-abdul.jpeg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Dr. Sudarnoto Abdul Hakim, M. A</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/17MdtDo3T2UKF84F8Rz2jE__GdF9V-peU/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/chair.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Abd. Chair</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah dan Peradaban Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1SNWnJYpbHblze_V0UkhV-TlYTGLIKiqE/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/amirul-hadi.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Drs. Amirul Hadi, MA, Ph.D</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah dan Peradaban Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1TE8n00ZoPksSSzWmQv4qM5J5gC9ydO3K/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/awalia-rahma.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Awalia Rahma</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah dan Peradaban Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1ua6eW8aCCLHsy1T6Y33YoC1yZPOGl7lY/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/fuad-jabali.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Fuad Jabali</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1qhvgr4dCG1eDN6ogQFPA79-QigMHSsB_zL3M9AqFbfM/edit?usp=sharing" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/halid.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Halid, M.Ag.</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Perkembangan Pemikiran Modern di Dunia Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1gAGZyiJx36--8GFvZ8lAIqXTH9tW_2WM/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/jajang-jahroni.jpeg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Jajang Jahroni</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1A9JKk_9POLmT6KJveHVVNBYwRdzjvizF/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/zakiya-darojat.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Zakiya Darajat, M. A</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah dan Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/1DSf0gLxJYs8MJs2eTdxoUJiXo9JxMHuEleFn7O3ntfM/edit?usp=sharing" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/oman-fathurrahman.JPG" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Prof. Dr. Oman Fathurahman, M.Hum</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Filologi</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/14oL8oSzv2KpW418vKZmV5AbpafP919Mg/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/imas-emalia.jpg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Imas Emalia, M.Hum</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Sejarah dan Kebudayaan Islam</div>
+                                            </a>
+                                            <a href="https://docs.google.com/document/d/15yIfaOo3kFjck8wm3fYt2-DvcPejI2iD/edit?usp=sharing&ouid=102811035192259525388&rtpof=true&sd=true" class="col-6 col-md-4 col-lg-3" style="display: grid; align-items: center;justify-items: center;">
+                                                <img style="border-radius: 98px; width: 98px; height: 98px; object-fit: cover;" src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/mauidlotun.jpeg" alt="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" data-uw-rm-alt-original="Prof.-Dr.Arif-Sumantr-3x4-225x300 (1)" />
+                                                <div class="text-center fw-bold  mt-3 mb-1">Dr. Mauidlotun Nisa’, M.Hum</div>
+                                                <div class="text-center fw-light">Dosen</div>
+                                                <div class="text-center">Linguistik (Bahasa Arab)</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+							</div>
+						</div>
+						<!-- Isi Konten Tab Dosen & Staf End --> <!-- Isi Konten Tab Prestasi Start -->
+						<div id="prod-achievement" class="tab-pane fade" role="tabpanel" aria-labelledby="prod-achievement-tab">
+							<div class="content white-bg pt-30">
+								<div id="prestasi" class="prestasi ">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <h5 class="mt-2">Prestasi Akademik</h5>
+                                                <!-- 
+                                                <ol class="list-group">
+                                                    <li class="list-group-item d-flex justify-content-between align-items-start mb-3">
+                                                        <div class="ms-2 me-auto">
+                                                            <div class="fw-bold">Hilya Maylaffayza</div>
+                                                            Juara 1 Olimpiade Al-Qur'an Hadis
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                 -->
+                                            </div>
+                                            <div class="col-md-6"> 
+                                                <h5 class="mt-2">Prestasi Non Akademik</h5>
+                                                 <!-- 
+                                                <ol class="list-group">
+                                                    <li class="list-group-item d-flex justify-content-between align-items-start">
+                                                        <div class="ms-2 me-auto">
+                                                            <div class="fw-bold">Sakina</div>
+                                                            Juara 2 Essay
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                  -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+							</div>
+						</div>
+						<!-- Isi Konten Tab Prestasi End --> <!-- Isi Konten Tab Fasilitas Start -->
+						<div id="prod-facility" class="tab-pane fade" role="tabpanel" aria-labelledby="prod-facility-tab">
+							<div class="content white-bg pt-30">
+								<div class="course-overview">
+									<div class="inner-box">
+                                        <div class="row gx-5 my-3">
+                                            <div class="col-md-6">
+                                                <h5>Perpustakaan Fakultas</h5>
+                                                <p>Perpustaaan Fakultas Adab dan Humaniora memiliki peran penting dalam mendukung kegiatan akademik dan riset yang merupakan bagian dari Pusat Perpustakaan UIN Syarif Hidayatullah Jakarta. Perpustakaan ini berfungsi sebagai sumber informasi yang melayani penyediaan bahan bacaan, peminjaman dan pengembalian, bahan rujukan, serta ruang belajar dan diskusi. Selain dilengkapi dengan sistem otomasi untuk memudahkan pencarian informasi koleksi secara mandiri, perpustakaan ini juga dilengkapi dengan akses wifi untuk para mahasiswanya dalam mengakses sumber informasi digital laiinya baik yang dilanggan Pusat maupun basis data-basis data lainnya yang terjaring dalam katalog induk perpustakaan secara nasional.</p>
+                                            </div>
+                                            <div class="col-md-5">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/fah--lt1--perpustakaan.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="row gx-5 my-5">
+                                            <div class="col-md-6">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/perpus-nurcholis.jpg">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <h5>Pusat Penelitian</h5>
+                                                <p>Pusat penelitian adalah sebuah institusi yang berfokus untuk melakukan penelitian dan pengembangan ilmiah di berbagai bidang ilmu. Pusat Penelitian FAH memiliki tujuan khusus, staf peneliti, fasilitas penelitian, dan sumber pendanaan yang digunakan untuk melaksanakan proyek penelitian. Pusat penelitian memainkan peran penting dalam memajukan ilmu pengetahuan, teknologi, dan inovasi, serta berkontribusi dalam memecahkan masalah-masalah ilmiah dan sosial.</p>
+                                            </div>
+                                        </div>
+                                        <div class="row gx-5 my-5">
+                                            <div class="col-md-6">
+                                                <h5>Laboratorium Bahasa</h5>
+                                                <p>Laboratorium bahasa di Fakultas Adab dan Humaniora adalah sebuah fasilitas pendidikan yang didedikasikan untuk memperkuat dan meningkatkan kemampuan berbahasa mahasiswa. Lab Bahasa ini menyediakan lingkungan yang kondusif dan berbagai sumber daya yang diperlukan untuk belajar dan mengembangkan keterampilan bahasa, seperti bahasa asing atau bahasa daerah. Laboratorium bahasa ini dilengkapi dengan teknologi modern dan perangkat lunak terkini yang memungkinkan mahasiswa untuk belajar dengan interaktif. Terdapat berbagai komputer yang dilengkapi dengan perangkat lunak pembelajaran bahasa yang dapat membantu mahasiswa meningkatkan kemampuan mereka dalam mendengarkan, berbicara, membaca, dan menulis dalam bahasa yang dipelajari..</p>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/laboratoriun-bahasa.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="row gx-5 my-5">
+                                            <div class="col-md-6">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/teater.jpg">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <h5>Ruang Teater</h5>
+                                                <p>Fakultas Adab dan Humaniora memiliki ruang teater dengan kapasistas 130 orang. Ruang teater ini digunakan untuk kegiatan-kegiatan workshop, seminar, konferensi nasional dan internasional baik yang diselenggarakan oleh program studi maupun faklutas.</p>
+                                            </div>
+                                            
+                                        </div>
+                                        <div class="row gx-5 my-5">
+                                            <div class="col-md-6">
+                                                <h5>Laboratorium Komputer</h5>
+                                                <p>Laboratorium komputer di gedung Fakultas Adab dan Humaniora adalah fasilitas modern yang dirancang khusus untuk mendukung pembelajaran dan penelitian. Lab ini dilengkapi dengan perangkat keras dan perangkat lunak terkini yang memungkinkan mahasiswa dan Dosen untuk melakukan berbagai kegiatan akademik yang melibatkan komputasi dan analisis data. Lab komputer ini memiliki ruang yang nyaman dan luas, dilengkapi dengan meja-meja kerja dan kursi ergonomis untuk meningkatkan produktivitas. Selain itu, lab ini dilengkapi dengan jaringan internet yang cepat dan stabil, memungkinkan akses mudah ke sumber daya online dan basis data yang relevan. Fasilitas yang tersedia di lab komputer ini meliputi komputer desktop dengan spesifikasi tinggi, layar monitor yang besar, dan perangkat input seperti keyboard dan mouse yang ergonomis.</p>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/laboratorium-komputer.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="row gx-5 my-5">
+                                            <div class="col-md-6">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/student-center.jpg">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <h5>Student Center</h5>
+                                                <p>Student Center ini merupakan gedung kegiatan mahasiswa yang dilengkapai dengan ruang kerja Dewan Mahasiswa (DEMA), Senat Mahasiswa (SEMA), dan Himpunan Mahasiswa Program Studi (HMPS)yang terletak di lantai 2. Sedangkan di lantai dasar merupakan masjid fakultas al-Insyaniat yang menyediakan ruang untuk melaksanakan ibadah sholat, baik individual maupun berjamaah. Selain itu masjid pada fakultas Adab dan Humaniora juga sering digunakan untuk kegiatan kegiatan keagamaan seperti mengaji, merayakan Maulid Nabi, dan diskusi agama.</p>
+                                            </div>
+                                        </div>
+                                        <div class="row gx-5 my-5">
+                                            <div class="col-md-6">
+                                                <h5>Parkir Khusus Sepeda</h5>
+                                                <p>Selain memiliki parkir khusus motor dan mobil, di fakultas Adab dan Humaniora juga menyediakan parkir khusus bagi pengguna sepeda untuk memarkir sepeda nya.</p>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/parkir-sepeda.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="row gx-5 my-5">
+                                            <div class="col-md-6">
+                                                <img src="https://asset.uinjkt.ac.id/uploads/LXdjJGPw/2023/10/ruang-serba-guna.jpg">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <h5>Ruang Serbaguna</h5>
+                                                <p>Ruang serbaguna pada fakultas Adab dan Humaniora adalah sebuah fasilitas yang dirancang untuk memfasilitasi berbagai jenis kegiatan belajar dan kegiatan lain nya di lingkungan kampus. Ruangan ini dirancang dengan fleksibilitas dan kemampuan yang dapat menyesuaikan diri dengan berbagai keperluan pengguna. Dengan luas yang memadai dan desain yang ergonomis, ruang serbaguna pada fakultas Adab dan Humaniora dilengkapi dengan fasilitas modern seperti meja, kursi, proyektor, layar, papan tulis, dan akses internet. Ruangan ini dapat dengan mudah diatur ulang untuk memenuhi kebutuhan berbagai jenis kegiatan, seperti kuliah, diskusi kelompok, presentasi, dan acara lainnya.</p>
+                                            </div>
+                                        </div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Isi Konten Tab Fasilitas End -->
+					</div>
+					<!-- Konten Tab End -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Tab Profil Program Studi Section End -->
