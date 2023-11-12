@@ -43,8 +43,8 @@ body {
 
 .navbar-top a{
     margin-left: 30px;
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 800;
     text-transform: uppercase;
     border-bottom: 2px solid transparent;
     transition: all .55s ease;
@@ -180,8 +180,9 @@ body {
 }
 
 .memohon {
-    padding-top: 35px;
-    width: 60%;
+    padding-top: 50px;
+    width: 80%;
+    /* border: 1px solid red; */
     font-size: 30px;
     margin: 0 auto;
 }
@@ -190,8 +191,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .facebook a{
@@ -199,6 +199,7 @@ body {
     background-color: antiquewhite;
     border-radius: 50%;
     margin: 10px;
+    color: blue;
 }
 
 .ig a{
@@ -206,6 +207,7 @@ body {
     background-color: antiquewhite;
     border-radius: 50%;
     margin: 10px;
+    color: brown;
 }
 
 .twitter a{
@@ -213,6 +215,7 @@ body {
     background-color: antiquewhite;
     border-radius: 50%;
     margin: 10px;
+    color: blue;
 }
 
 .youtube a{
@@ -220,6 +223,12 @@ body {
     background-color: antiquewhite;
     border-radius: 50%;
     margin: 10px;
+    color: red;
+}
+
+.medsos a:hover{
+    transform: scale(80%);
+    transition: all 0.5s ease-in-out;
 }
 
 
@@ -230,6 +239,14 @@ body {
 
 /* Responsive And JS */
 @media screen and (max-width: 1340px) {
+    body {
+        background-image: url(https://wildnet.org/wp-content/uploads/2022/07/Great-Green-7-1024x683.jpg);
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
     #menu {
         display: inline-block;
         overflow: hidden;
@@ -237,12 +254,13 @@ body {
 
     .navbar {
         padding: 15px 3%;
+        overflow: hidden;
     }
 
     .navbar-top {
         position: absolute;
         top: 12%;
-        right: -100%;
+        right: -150%;
         background-color: greenyellow;
         width: 30rem;
         height: 100vh;
@@ -267,13 +285,62 @@ body {
         font-size: 1.6rem;
     }
 
-    .navbar .navbar-top a::after{
-        content: '';
-        display: block;
-        padding-bottom: 0.2rem;
-        border-bottom: 2px solid red;
-        transform: scaleX(0);
-        transition: 0.2s linear;
-        cursor: pointer;
+    .tittle-tips {
+        height: 30vh;
+        width: 80%;
+        margin: 20px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .trik-bird {
+        height: 30vh;
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+/* handphone */
+@media screen and (max-width: 750px) {
+    .tittle-tips {
+        height: 20vh;
+        width: 80%;
+        margin: 20px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .list-trick{
+        /* flex-direction: column; */
+    }
+
+    .trik-bird {
+        min-height: 10vh;
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    .trick-bird {
+        margin: 10px;
+        font-size: 12px;
+        font-weight: 400;
+        text-align: justify;
+    }
+
+    .memohon {
+        padding-top: 20%;
+        font-size: 20px;
+    }
+
+    .medsos-konten {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        font-size: 20px;
+        border: 1px solid red;
+        background-attachment: fixed;
     }
 }
