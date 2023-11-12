@@ -48,6 +48,7 @@ body {
     text-transform: uppercase;
     border-bottom: 2px solid transparent;
     transition: all .55s ease;
+    overflow: hidden;
 }
 
 .navbar-top a:hover{
@@ -119,6 +120,12 @@ body {
     border-radius: 50%;
     margin: 20px 5%;
 }
+
+.img-card:hover{
+    transform: scale(.8);
+    transition: all 0.50s ease-in-out;
+}
+
 /* Konten Two END */
 
 /* konten tree Start */
@@ -163,6 +170,13 @@ body {
     font-size: 20px;
     font-weight: 400;
     text-align: justify;
+}
+
+.trick-bird a{
+    /* margin */
+    padding: 8px;
+    background-color: aqua;
+    border-radius: 20%;
 }
 /* konten tree END */
 
@@ -249,12 +263,10 @@ body {
 
     #menu {
         display: inline-block;
-        overflow: hidden;
     }
 
     .navbar {
         padding: 15px 3%;
-        overflow: hidden;
     }
 
     .navbar-top {
@@ -264,6 +276,7 @@ body {
         background-color: greenyellow;
         width: 30rem;
         height: 100vh;
+        overflow: hidden;
     }
 
     .navbar .navbar-top.active {
